@@ -29,7 +29,7 @@ Apache thrift là một tập các công cụ giúp xây dựng RPC Client và S
 
 Ngôn ngữ để viết nên file định nghĩa phía trên được gọi là Thrift IDL (interface Definition Languge)
 
-![serviceCall](images/thrift2.png)
+![serviceCall](images/Thrift2.png)
 
 
 **Kiến trúc Thrift**
