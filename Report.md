@@ -1,6 +1,6 @@
-#APACHE THRIFT
+# APACHE THRIFT
 
-###1. RPC (Remote procedure call)
+### 1. RPC (Remote procedure call)
 
 
 Apache Thrift là một framework của RPC. RPC được hiểu như là thủ tục gọi hàm từ  xa.
@@ -20,7 +20,7 @@ Khi lập trình viên gọi một thủ tục ở xa, một thành phần của
 
 Điểm lợi ở đây là cơ chế đơn giản hóa cho việc xây dựng các ứng dụng Client-Server, Server sẽ là các máy chủ để cung cấp các thủ tục từ xa cho phép các chương trình khác gọi thực hiện, Client sẽ là các chương trình gọi đến các thủ tục ở xa trong quá trình thực hiện của mình.
 
-###2. APACHE THRIFT
+### 2. APACHE THRIFT
 
 
 **Mô tả chung**
@@ -66,7 +66,7 @@ là tập hợp 3 tính năng được liệt kê ở trên:
 ![server](images/server.png)
 
 
-###3. Cài đặt và demo
+### 3. Cài đặt và demo
 
 
 * **Cài đặt**
